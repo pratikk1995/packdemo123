@@ -1,6 +1,6 @@
 ---
 name: task_1
-pack: hello_angaj
+pack: pack_pk
 runner_type: "python-script"
 description: action open web response!
 enabled: true
