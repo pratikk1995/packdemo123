@@ -1,15 +1,15 @@
 ---
-ref: hello_angaj
-name: Angaj UI
+ref: pratik_demo
+name: Pratik's demo
 description: Simple pack containing examples of sensor, rule, and action.
 keywords:
     - action
-    - angaj
+    - pratik
     - requests
     - web
 version: 3.1.0
 python_versions:
   - "2"
   - "3"
-author: Angaj
-email: rajshahu95@gmail.com
+author: Pratik
+email: pratik.khairnar1995@gmail.com
